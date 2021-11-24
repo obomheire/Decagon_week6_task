@@ -1,0 +1,65 @@
+[
+  {
+    "customerid": 7,
+    "fullname": "Oluwole Saka",
+    "email": "fatai@example.com",
+    "gender": "Male",
+    "phone": "+2347085647539",
+    "notes": "This Customer is owing 10k",
+    "address": "1, rantech stop, "
+  },
+  {
+    "customerid": 12,
+    "fullname": "Osita Stephen",
+    "email": "stephen@example.com",
+    "gender": "M",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop, ",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "customerid": 15,
+    "fullname": "Osita S",
+    "email": "stephen@example.com",
+    "gender": "M",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop, ",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "customerid": 16,
+    "fullname": "Zack Obomheire Bello",
+    "email": "obomheire@gmail.com",
+    "gender": "male",
+    "phone": "08030875579",
+    "address": "No 2, Adeola street",
+    "notes": "The Man"
+  },
+  {
+    "customerid": 8,
+    "fullname": "Zack ello",
+    "email": "obomheire@gmail.com",
+    "gender": "male",
+    "phone": "08030875579",
+    "address": "No 2, Adeola street",
+    "notes": "NA"
+  },
+  {
+    "customerid": 9,
+    "fullname": "Zack O",
+    "email": "obomheire@gmail.com",
+    "gender": "male",
+    "phone": "08030875579",
+    "address": "surulere",
+    "notes": "NA"
+  },
+  {
+    "customerid": 10,
+    "fullname": "Obomheire Bello",
+    "email": "obomheire@gmail.com",
+    "gender": "male",
+    "phone": "08030875579",
+    "address": "ijeshatedo Road ",
+    "notes": "NAA"
+  }
+]
