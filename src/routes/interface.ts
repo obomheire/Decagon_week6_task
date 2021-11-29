@@ -1,4 +1,4 @@
-interface Customer{ 
+export interface Customer{  
     customerid: number;
     fullname: string; 
     email: string
@@ -8,4 +8,11 @@ interface Customer{
     notes: string;  
 }
 
-export default Customer;
+export interface User{
+    id: number;
+    username: string;
+    email: string;
+    password: string
+}
+
+// export default Customer;
